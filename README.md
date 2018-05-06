@@ -24,4 +24,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm install
 > npm start
 ```
-# ReduxSimpleStarter
+
+# Original repo
+https://github.com/StephenGrider/ReduxSimpleStarter
