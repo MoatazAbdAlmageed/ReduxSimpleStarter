@@ -41,4 +41,7 @@
 import React from 'react';
 // Normally the first argument to this function is props, However using a feature in ES6 called destructuring, we can replace ‘props’ with ‘{name}’ which is the equivalent to having ‘const name = props.name’
 const Goodbye = ({name}) => <h1>Goodbye, {name}!</h1>;
+
+
+
 export default Goodbye;
