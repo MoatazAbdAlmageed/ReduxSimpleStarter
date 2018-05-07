@@ -18,6 +18,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
+#### run testes
+yarn jest
+
+
 
 # Original repo
 https://github.com/StephenGrider/ReduxSimpleStarter
