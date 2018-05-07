@@ -26,5 +26,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 
 
-# Original repo
+####  Original repo
 https://github.com/StephenGrider/ReduxSimpleStarter
