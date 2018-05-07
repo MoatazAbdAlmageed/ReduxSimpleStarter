@@ -19,7 +19,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 
 #### run testes
-yarn jest
+```
+> yarn jest
+```
+
 
 
 
